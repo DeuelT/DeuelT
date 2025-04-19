@@ -4,9 +4,9 @@
 -->
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Deuel.png)](https://tryhackme.com/p/Deuel)
 
-## 🤔 Get to know me
-- 🔭 I’m currently working on being the best version of myself
-- 🌱 I’m currently learning how to attack and defend myself in the digital world
+## 🔍 Get to know me
+- 🤔 I’m currently working on being the best version of myself
+- 🧠 I’m currently learning how to attack and defend myself in the digital world
 - 🎯 I’m looking for help with anything life throws @ me
 - 💬 Ask me about anything code related!
 - 📫 How to reach me: deuel.teo.2000@gmail.com
