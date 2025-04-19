@@ -2,7 +2,7 @@
 <!-- 
 **DeuelT/DeuelT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/deuel.teo.2000.png)](https://tryhackme.com/p/deuel.teo.2000)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Deuel.png)](https://tryhackme.com/p/Deuel)
 
 ## 🤔 Get to know me
 - 🔭 I’m currently working on being the best version of myself
