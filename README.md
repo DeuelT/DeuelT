@@ -10,7 +10,7 @@
 - 🎯 I’m looking for help with anything life throws @ me
 - 💬 Ask me about anything code related!
 - 📫 How to reach me: deuel.teo.2000@gmail.com
-- ⚡ Fun fact: I'm a chil guy
+- ⚡ Fun fact: I'm just a chill guy
 
 ## 💻 Skills
 <!-- Languages -->
